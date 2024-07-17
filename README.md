@@ -1,6 +1,7 @@
 # -COFI_PowerPlay_Analysis
 Analysis of Global Energy Investments in BRI Countries.
-Looker Studio Report for COFI PowerPlay
+
+[Looker Studio Report for COFI PowerPlay]([Looker Studio Report for COFI PowerPlay](https://lookerstudio.google.com/reporting/eec7a010-1c83-4580-9abb-9ec18c01ca57))
 # COFI PowerPlay: Analyzing Global Energy Investments
 
 ## Introduction
